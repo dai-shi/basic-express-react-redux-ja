@@ -1,6 +1,6 @@
-# react-create-appについて
+# create-react-appについて
 
-Reactを試すだけなら、react-create-appがお手軽でしょう。
+Reactを試すだけなら、create-react-appがお手軽でしょう。
 eslintも入っていますし、ビルドしてデプロイもできます。
 その他様々な機能があり発展しています。
 
